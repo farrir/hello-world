@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 some changes
 more changes
 another change
+
+one more line
